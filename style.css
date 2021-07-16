@@ -1,0 +1,36 @@
+.container {
+    width: 350px;
+    height:550px;
+    border: 1px solid grey;
+}
+img {
+    width:300px;
+    margin-left: 25px;
+}
+
+.textContainer {
+    width: 300px;
+    border:1px solid grey;
+    margin-left: 25px;
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:15px;
+}
+
+.titleContainer {
+    margin-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fact {
+    margin-left: 10px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.description {
+    margin-left:10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
